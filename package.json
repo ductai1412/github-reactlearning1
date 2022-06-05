@@ -1,0 +1,22 @@
+{
+  "name": "xorilypqj.github",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@mui/material": "5.8.2",
+    "react-scripts": "5.0.1",
+    "@emotion/react": "11.9.0",
+    "@emotion/styled": "11.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
